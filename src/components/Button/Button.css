@@ -1,0 +1,51 @@
+
+button{
+    appearance: none;
+    border: none;
+    outline: none;
+    color: #FFF;
+    font-size: 20px;
+    padding: 16px;
+    cursor: pointer;
+    transition:  0.4s;
+}
+
+button:hover{
+    opacity: 0.9;
+}
+
+.operators{
+    display: flex;
+
+}
+
+.operators button{
+    flex: 1 1 0%;
+    background-color: var(--primary);
+    font-weight: 650;
+}
+
+.digits{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.digits button{
+    max-width: 33.333%;
+    flex: 1 1 33.333%;
+    background-color: var(--dark);
+}
+
+.monitor{
+    padding: 16px;
+    text-align: right;
+    background-color: var(--dark);
+    color: var(--light);
+    font-size: 24px;
+    font-weight: 300;
+}
+
+.monitor span{
+    font-size: 14px;
+    color:grey;
+}
