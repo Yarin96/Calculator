@@ -1,7 +1,8 @@
-## React.js Calculator
+# React.js Calculator
 
 📟 A basic implementation of a calculator using React.js.
 
+## Preview
 ![image](https://user-images.githubusercontent.com/94289687/167145332-31b0dc03-9fc1-4eb2-a3aa-1cb8b132bc2c.png)
 
 
