@@ -1,6 +1,6 @@
 ## React.js Calculator
 
-A basic implementation of a calculator using React.js.
+📟 A basic implementation of a calculator using React.js.
 
 ## Getting Started with Create React App
 
